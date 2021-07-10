@@ -1,0 +1,10 @@
+Codigo txt
+8
+6
+4
+3
+2
+2
+1
+....
+Fin del codigo txt....
