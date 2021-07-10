@@ -14,4 +14,8 @@ Code desde local
 .
 fin code;
 
+
 mis cambio desde local...#####
+
+Se esta editando el archivo desde el repo
+
